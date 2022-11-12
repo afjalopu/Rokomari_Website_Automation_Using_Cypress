@@ -16,7 +16,12 @@
 9.      Going to the Shipping page
 10.     Providing Shipping Information
 
-## More Projects
+# More Projects
+## NoCommerce Website Testing || Cypress
+      An Ecommerce Website Automation Mini Project Implementing the Add To Cart Module Using Cypress 
+      Github Link : https://github.com/afjalopu/NopCommerce_Website_AddToCart_MiniProject
+
 ## OrangeHRM Website Testing  || Selenium
-         A Selenium Automation Project Based on 3 different Modules Like Admin Module, PIM(Product Information Module) Module and Leave Module. 
-         Github Link : https://github.com/afjalopu/OrangeHRM_Website_Automation_Selenium
+      A Selenium Automation Project Based on 3 different Modules Like Admin Module, PIM(Product Information Module) Module and Leave Module. 
+      Github Link : https://github.com/afjalopu/OrangeHRM_Website_Automation_Selenium
+
